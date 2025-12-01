@@ -5,42 +5,9 @@ My name is Thanathip SamarTt ( nickname is "James " ) 😁 my alias is "dynamicd
 Installer Engineer & Technical Support (full time) , System Engineer (past time)
 --------------------------------------------------------------------------------
 
-Formal Education :
-
-: University(unsuccessfull)
-
-2017 - 2018 Faculty of Engineering Department of Electronics and Telecommunications Engineering
-
-Rajamangala University of Technology Krungthep (RMUTK).
-
-: Vocational level
-
-2013 - 2016 Electronics department
-
-Tharn Instutite Of Technology.
-
-: Secondary level
-
-2009 - 2012 Mahavajiralongkorn Royal college school
-
-Phra Pariyatthamma School of Buddhism.
-
-Additional career path education :
-
-Cisco Certificate Support Technician (CCST) Cisco networking academy.
-
-\- Networking basics.
-
-\- Networking devices and initial configuration.
-
-\- Networking addressing and troubleshooting.
-
-\- Network support and security.
-
-\- Network technician career path.
 
 * 🌍  I'm based in RamaII - Bangkhunthien, Bangkok, Thailand.
-* ✉️  You can contact me at [james.dynamicdev@gmail.com (Personal) : ceo@dynamicdev.asia (Workspace)](mailto:james.dynamicdev@gmail.com (Personal) : ceo@dynamicdev.asia (Workspace) )
+* ✉️  You can contact me at [james.dynamicdev@gmail.com (Personal) : ceo@dynamicdev.asia (Workspace)
 * 🚀  I'm currently working on [Project under alias Organizations](http://dynamicdev.asia)
 * 🧠  I'm currently learning about networking ccna course and ecosystem around technology & Software computer by self on my working past time.
 * 👥  I'm looking to collaborate on etc, Self Hosting system project , Networking development software and Network engineer.
@@ -55,6 +22,29 @@ Cisco Certificate Support Technician (CCST) Cisco networking academy.
 
 <a href="http://www.github.com/dynamicdev-jamesdynamicdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dynamicdev-jamesdynamicdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+
+## Additional career path education : ##
+
+Cisco Certificate Support Technician (CCST) Cisco networking academy.
+
+\- Networking basics.
+
+\- Networking devices and initial configuration.
+
+\- Networking addressing and troubleshooting.
+
+\- Network support and security.
+
+\- Network technician career path.
+
+
+Formal Education : Lastest
+
+: University  (unsuccessfull)
+
+2017 - 2018 Faculty of Engineering Department of Electronics and Telecommunications Engineering
+
+Rajamangala University of Technology Krungthep (RMUTK).
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
