@@ -1,7 +1,7 @@
 <p align="center">
   <img src="dynamicdev.png" width="200" alt="dynamicdev_ logo">
 </p>
-<h1 align="center">Hi there 👋 I'm Thanathip SamarTt (James)</h1>
+<h1 align="center">Hi there 👋 I'm Thanathip SamarTt </h1>
 <p align="center">
   <strong>The alias "dynamicdev_" | Professional Solution Builder</strong>
 </p>
