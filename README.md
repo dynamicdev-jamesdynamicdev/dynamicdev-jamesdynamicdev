@@ -38,8 +38,8 @@ const Thanathip SamarTt = {
   role: "Installer Engineer & Technical Support",
   location: "Bangkok, Thailand 🇹🇭",
   education: "Self-Taught Enthusiast",
-  currentlyLearning: ["Devops Engineering", "Network Engineering"],
-  expertise: ["System Engineering", "Network Deployment"],
+  currentlyLearning:["Devops & Network Engineering"],
+  expertise:["System Engineering","Network Deployment"],
   organizations: ["dynamicdev_official"],
   passion: "Building robust IT ecosystems by Self"
 };
